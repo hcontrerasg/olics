@@ -1,0 +1,362 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: black;
+    display: flex;
+    align-content: space-between;
+    gap: 30px;
+    height: 90px;
+    font-family: 'Amaranth', sans-serif;
+
+}
+
+.logo{
+    width: 190px;
+    height: 90px;
+    padding: 0;
+    position: relative; left: 50px;
+}
+
+.quienes{
+    position: relative; left: 500px;
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.proyectos{
+    position: relative; left: 500px;
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.sustentabilidad{
+    position: relative; left: 500px;
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.perfil{
+    position: relative; left: 435px;
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.usuario{
+
+    position: relative; left: 500px; top: 27px;
+    width: 40px;
+    height: 40px;
+    
+}
+
+
+.estamos{
+    padding: 0px;
+    background: url(./molinolics.jpeg);
+    height: 800px;
+    font-family: 'Amaranth', sans-serif;
+    font-size: xx-large;
+}
+
+.presentes{
+    position: relative; top: 300px;
+    margin-left: 30px;
+    
+}
+
+
+
+.energías{
+    position: relative; top: 300px;
+    margin-left: 250px;
+}
+
+.body{
+    font-family: 'Amaranth', sans-serif;
+}
+
+.crecimiento{
+    background-color: black;
+}
+
+.acelera{
+    font-family: 'Amaranth', sans-serif;
+    margin-left: 450px;
+    padding: 40px;
+    color: white;
+
+}
+
+.invitamos{
+    font-family: 'Amaranth', sans-serif;
+    margin-left: 525px;
+    padding: 20px;
+    color: white;
+}
+
+.parques{
+    display: flex;
+    padding: 5px;
+    gap: 5px;
+    background-color: black;
+}
+.foto1{
+    width: 295px;
+    height: 200;
+    
+}
+
+.foto2{
+    width: 295px;
+    position: relative; top: 0px left auto
+}
+
+.foto3{
+    width: 295px;
+    position: relative; top: 0px left auto
+}
+
+.foto4{
+    width: 295px;
+    position: relative; top: 0px left auto
+}
+
+.foto5{
+    width: 295px;
+    position: relative; top: 0px left auto
+}
+
+.locaciones{
+    display: flex;
+    font-family: 'Amaranth', sans-serif;
+    color:white;
+    gap: 260px;
+    background-color: black;
+    padding: 40px;
+
+   
+}
+
+.historia{
+    font-family: 'Amaranth', sans-serif;
+    padding: 40px;
+    background: url(./44.jpeg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hacemos{
+    padding: 50px;
+    position: relative; top: 100px; left: 190px;
+    
+}
+
+
+
+.productor{
+    color: white;
+    background-color: black; opacity: 80%;
+    padding: 40px;
+    position: relative; top: 100px; left: 100px;
+    padding-top: 75px;
+    width: 600px;
+    font-size: 1.7rem;
+
+}
+.politicas{
+    background-color: black;
+
+}
+
+.susten{
+    font-family: 'Amaranth', sans-serif;
+    color: black;
+    text-align: end;
+    margin-right: 20px;
+    padding: 40px;
+   
+}
+
+.sustenta{
+    display:flex
+   
+}
+
+.verde{
+    width: 800px;
+    margin-left: 10px;
+}
+
+.power{
+    color: white;
+    background-color: black; opacity: 80%;
+    padding: 40px;
+    position: relative; top: 0px; left: 100px;
+    padding-top: 75px;
+    width: 600px;
+    font-size: 1.7rem;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.contacto{
+    font-family: 'Amaranth', sans-serif;
+    color: black;
+    background-color: white;
+    padding: 60px;
+   
+}
+
+.pie-pagina{
+    width: 1510px;
+    background-color: black;
+    background-size: cover;
+    height: 300px;
+    display:flex;
+}
+
+.logo-pie{
+    width: 400px;
+    height: 200px;
+    margin-left: 0px;
+}
+
+.herramientas{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    position: relative; top: 130px;
+    align-items: center;
+
+}
+
+.donde{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.nuestras{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.asesoramos{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.siguenos{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Amaranth', sans-serif;
+    position: relative; top: 110px;
+    margin-left: 200px;
+    font-size: xx-large;
+
+}
+
+.red-social{
+    position: relative; top: 130px; right: 10px;
+    margin-right: 10px;
+
+}
+
+.grupo2{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.fa-facebook{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+   
+}
+
+.fa-instagram{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.fa-twitter{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.fa-youtube{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.contacto{
+   padding: 50px;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+   border-radius: 20px;
+   text-align: center;
+   width: 400px;
+   flex-direction: column;
+   text-align: left;
+   margin-left: 100px;
+   position: relative; top: 50px;
+   gap: 10px;
+ 
+   
+
+
+}
+
+.contactanos{
+    font-family: 'Amaranth', sans-serif;
+    margin-left: 30px;
+    padding: 20px;
+    position: relative; top: 0px;
+    gap: 10px;
+
+}
+
+.nombre{
+    font-family: 'Amaranth', sans-serif;
+    
+}
+ 
+.tel{
+    font-family: 'Amaranth', sans-serif;
+}
+
+.mail{
+    font-family: 'Amaranth', sans-serif;
+}
+
+.textarea{
+    font-family: 'Amaranth', sans-serif;
+    width: 250px;
+}
+
+.btn{
+    font-family: 'Amaranth', sans-serif; 
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
