@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
-    box-sizing: border-box;
+  
 }
 
 
@@ -13,7 +13,7 @@
     gap: 30px;
     height: 90px;
     font-family: 'Amaranth', sans-serif;
-
+    flex-wrap: wrap;
 
 }
 
@@ -22,6 +22,7 @@
     height: 90px;
     padding: 0;
     position: relative; left: 50px;
+    flex-wrap: wrap;
 }
 
 .quienes{
@@ -29,6 +30,7 @@
     text-decoration: none;
     color: white;
     padding: 40px;
+    flex-wrap: wrap;
 }
 
 .proyectos{
@@ -36,6 +38,7 @@
     text-decoration: none;
     color: white;
     padding: 40px;
+    flex-wrap: wrap;
 }
 
 .sustentabilidad{
@@ -43,6 +46,7 @@
     text-decoration: none;
     color: white;
     padding: 40px;
+    flex-wrap: wrap;
 }
 
 .perfil{
@@ -67,12 +71,13 @@
     height: 800px;
     font-family: 'Amaranth', sans-serif;
     font-size: xx-large;
+    flex-wrap: wrap;
 }
 
 .presentes{
     position: relative; top: 300px;
     margin-left: 30px;
-    
+    flex-wrap: wrap;
 }
 
 
@@ -80,6 +85,7 @@
 .energías{
     position: relative; top: 300px;
     margin-left: 250px;
+    flex-wrap: wrap;
 }
 
 .body{
@@ -88,6 +94,7 @@
 
 .crecimiento{
     background-color: black;
+    flex-wrap: wrap;
 }
 
 .acelera{
@@ -95,6 +102,7 @@
     margin-left: 450px;
     padding: 40px;
     color: white;
+    flex-wrap: wrap;
 
 }
 
@@ -103,6 +111,7 @@
     margin-left: 480px;
     padding: 20px;
     color: white;
+    flex-wrap: wrap;
 }
 
 .carrusel{
@@ -110,6 +119,7 @@
     height: 800px;
     margin-left: 300px;
     position: relative; top: 40px;
+    flex-wrap: wrap;
 
 }
 
@@ -136,6 +146,7 @@
 .foto5{
     width: 1000px;
     height: 600px;
+
 }
 
 .locaciones{
@@ -146,11 +157,12 @@
     background-color: black;
     padding: 10px;
     text-align: center;
-   
+    flex-wrap: wrap;
 }
 
 .puyehue{
     margin-left: 60px;
+    flex-wrap: wrap;
 }
 
 .historia{
@@ -161,12 +173,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    flex-wrap: wrap;
 }
 
 .hacemos{
     padding: 50px;
     position: relative; top: 100px; left: 190px;
-    
+    flex-wrap: wrap;
 }
 
 
@@ -179,11 +192,12 @@
     padding-top: 75px;
     width: 600px;
     font-size: 1.7rem;
+    flex-wrap: wrap;
 
 }
 .politicas{
     background-color: black;
-
+    flex-wrap: wrap;
 }
 
 .susten{
@@ -192,17 +206,18 @@
     text-align: end;
     margin-right: 20px;
     padding: 40px;
-   
+    flex-wrap: wrap;
 }
 
 .sustenta{
-    display:flex
+    display:flex;
    
 }
 
 .verde{
     width: 800px;
     margin-left: 10px;
+    flex-wrap: wrap;
 }
 
 .power{
@@ -214,6 +229,7 @@
     width: 600px;
     font-size: 1.7rem;
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .contacto{
@@ -221,6 +237,7 @@
     color: black;
     background-color: white;
     padding: 60px;
+    flex-wrap: wrap;
    
 }
 
@@ -230,12 +247,14 @@
     background-size: cover;
     height: 300px;
     display:flex;
+    flex-wrap: wrap;
 }
 
 .logo-pie{
     width: 400px;
     height: 200px;
     margin-left: 0px;
+    flex-wrap: wrap;
 }
 
 .herramientas{
@@ -244,6 +263,7 @@
     padding: 20px;
     position: relative; top: 130px;
     align-items: center;
+    flex-wrap: wrap;
 
 }
 
@@ -252,6 +272,7 @@
     text-decoration: none;
     padding: 20px;
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .nuestras{
@@ -259,6 +280,7 @@
     text-decoration: none;
     padding: 20px;
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .asesoramos{
@@ -266,6 +288,7 @@
     text-decoration: none;
     padding: 20px;
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .siguenos{
@@ -276,12 +299,13 @@
     position: relative; top: 110px;
     margin-left: 200px;
     font-size: xx-large;
-
+    flex-wrap: wrap;
 }
 
 .red-social{
     position: relative; top: 130px; right: 10px;
     margin-right: 10px;
+    flex-wrap: wrap;
 
 }
 
@@ -290,31 +314,35 @@
     text-decoration: none;
     padding: 20px;
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .fa-facebook{
     color: white;
     padding: 15px;
     text-decoration: none;
-   
+    flex-wrap: wrap;
 }
 
 .fa-instagram{
     color: white;
     padding: 15px;
     text-decoration: none;
+    flex-wrap: wrap;
 }
 
 .fa-twitter{
     color: white;
     padding: 15px;
     text-decoration: none;
+    flex-wrap: wrap;
 }
 
 .fa-youtube{
     color: white;
     padding: 15px;
     text-decoration: none;
+    flex-wrap: wrap;
 }
 
 .contacto{
@@ -328,9 +356,7 @@
    margin-left: 100px;
    position: relative; top: 50px;
    gap: 10px;
- 
-   
-
+   flex-wrap: wrap;
 
 }
 
@@ -340,12 +366,13 @@
     padding: 20px;
     position: relative; top: 0px;
     gap: 10px;
+    flex-wrap: wrap;
 
 }
 
 .nombre{
     font-family: 'Amaranth', sans-serif;
-    
+    flex-wrap: wrap;
 }
  
 .tel{
@@ -354,11 +381,13 @@
 
 .mail{
     font-family: 'Amaranth', sans-serif;
+    flex-wrap: wrap;
 }
 
 .textarea{
     font-family: 'Amaranth', sans-serif;
     width: 250px;
+    flex-wrap: wrap;
 }
 
 .btn{
@@ -366,6 +395,7 @@
     padding: 10px;
     background-color: black;
     color: white;
+    flex-wrap: wrap;
 }
 
 
