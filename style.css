@@ -100,52 +100,57 @@
 
 .invitamos{
     font-family: 'Amaranth', sans-serif;
-    margin-left: 525px;
+    margin-left: 480px;
     padding: 20px;
     color: white;
 }
 
-.parques{
-    display: flex;
-    padding: 5px;
-    gap: 4px;
-    background-color: black;
+.carrusel{
+    width: 1000px;
+    height: 800px;
+    margin-left: 300px;
+    position: relative; top: 40px;
+
 }
+
 .foto1{
-    width: 295px;
-    height: 200;
-    
+    width: 1000px;
+    height: 600px;
 }
 
 .foto2{
-    width: 295px;
-    position: relative; top: 0px left auto
+    width: 1000px;
+    height: 600px;
 }
 
 .foto3{
-    width: 295px;
-    position: relative; top: 0px left auto
+    width: 1000px;
+    height: 600px; 
 }
 
 .foto4{
-    width: 295px;
-    position: relative; top: 0px left auto
+    width: 1000px;
+    height: 600px;
 }
 
 .foto5{
-    width: 295px;
-    position: relative; top: 0px left auto
+    width: 1000px;
+    height: 600px;
 }
 
 .locaciones{
     display: flex;
     font-family: 'Amaranth', sans-serif;
     color:white;
-    gap: 260px;
+    gap: 150px;
     background-color: black;
-    padding: 40px;
-
+    padding: 10px;
+    text-align: center;
    
+}
+
+.puyehue{
+    margin-left: 60px;
 }
 
 .historia{
@@ -362,4 +367,5 @@
     background-color: black;
     color: white;
 }
+
 
